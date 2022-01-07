@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f5b4379-2da1-4732-935e-3726b967489d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b1WZDkwVajc1PwdKUiwv8oSKE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5b4379-2da1-4732-935e-3726b967489d" name="Default Changelist" comment="" />
+      <created>1587800133519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587800133519</updated>
+      <workItem from="1587800134999" duration="641000" />
+      <workItem from="1587805405877" duration="868000" />
+      <workItem from="1587813959680" duration="384000" />
+      <workItem from="1587835983132" duration="858000" />
+      <workItem from="1587888086944" duration="1842000" />
+      <workItem from="1587898170091" duration="1537000" />
+      <workItem from="1587900239591" duration="7214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="300" width="673" height="472" key="find.popup" timestamp="1587914392001">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="504" y="300" width="673" height="472" key="find.popup/56.23.1624.1027@56.23.1624.1027" timestamp="1587914392001" />
+    <state x="555" y="393" key="git4idea.ui.GitTagDialog" timestamp="1587800378000">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="555" y="393" key="git4idea.ui.GitTagDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1587800378000" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1587907291750">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/56.23.1624.1027@56.23.1624.1027" timestamp="1587907291750" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
